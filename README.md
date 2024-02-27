@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishibarua6345@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/197dU4rtqaTdjpnLw4SUuU2TLcSaGIooM/view?usp=sharing](https://drive.google.com/file/d/197dU4rtqaTdjpnLw4SUuU2TLcSaGIooM/view?usp=sharing)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Did you know that GitHub was created in 2008 by Chris Wanstrath, Tom Preston-Werner, and PJ Hyett? It started as a platform for developers to collaborate on code and share their projects. Since then, GitHub has grown exponentially and become one of the most popular platforms for version control and code collaboration in the software development community. It has revolutionized the way developers work together and has fostered a vibrant open-source community.**
 
